@@ -1,0 +1,15 @@
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.csproj.AssemblyReference.cache
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.AssemblyInfoInputs.cache
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.AssemblyInfo.cs
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.csproj.CoreCompileInputs.cache
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\bin\Debug\net7.0\PraticeV.exe
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\bin\Debug\net7.0\PraticeV.deps.json
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\bin\Debug\net7.0\PraticeV.runtimeconfig.json
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\bin\Debug\net7.0\PraticeV.dll
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\bin\Debug\net7.0\PraticeV.pdb
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.dll
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\refint\PraticeV.dll
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.pdb
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\PraticeV.genruntimeconfig.cache
+C:\Users\Confidence\source\repos\PraticeV\PraticeV\obj\Debug\net7.0\ref\PraticeV.dll
